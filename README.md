@@ -26,7 +26,7 @@ APIs | MongoDB | MySQL | Jest | Postman | Git | GitHub | Heroku | Netlify | Fire
 Skills: M=MongoDB || E=Express || R=React || N = NodeJs (MERN-> JavaScript) 
 
 - 🔭 I’m currently working on Freshome Ltd 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning JavaScript/Mern Stack  
 - 👯 I’m looking to collaborate on GitHub 
 - 🤔 I’m looking for help with Project Collaboration 
 - 💬 Ask me about Web Development  
