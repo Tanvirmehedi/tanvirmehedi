@@ -1,4 +1,4 @@
-# Hi 👋, i'm H.M Tanvir Mehedi,
+# Hi 👋, i'm H M Tanvir Mehedi,
 ### A passionate Full-stack JavaScript Developer
 ![A passionate Full-stack JavaScript Developer](https://res.cloudinary.com/practicaldev/image/fetch/s--eCe9DZc8--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lzateq8roxx6lpx1x41z.png)
 
@@ -14,12 +14,12 @@ When not coding, I also enjoy traveling and free-dive spearfishing.
 Please contact me with any questions or if you would like to chat.
 
 Languages:
-HTML | CSS | JavaScript 
+JavaScript 
 
 Libraries:
 Axios | Express | Bootstrap | Tailwind | Material-UI | Mongoose | Node.js | Redux | React | Styled-Components 
 | React Query
-Technologies:
+Technologies Tools:
 APIs | MongoDB | MySQL | Jest | Postman | Git | GitHub | Heroku | Netlify | Firebase
 
 
